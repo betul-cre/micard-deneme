@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(
                       Icons.phone,
-                      size: 30,
+                      size: 35,
                       color: Colors.orangeAccent,
                     ),
                     title: Text(
